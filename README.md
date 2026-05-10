@@ -31,6 +31,17 @@ The Dashboard helps identify key business insights such as top-performing produc
 
 This project demonstrates business-focused analytics, storytelling through data visualization, and decision-making insights commonly used in real-world e-commerce businesses.
 
+<img width="1160" height="662" alt="image" src="https://github.com/user-attachments/assets/d9524d8d-89c5-4eef-ad32-b8673aa091bd" />
+
+<img width="1162" height="662" alt="image" src="https://github.com/user-attachments/assets/9615ffea-71ae-42d0-9256-cb7ce99bcaca" />
+
+<img width="1148" height="658" alt="image" src="https://github.com/user-attachments/assets/c63832fe-b10b-4a9d-90f8-9fb175f70161" />
+
+<img width="1161" height="662" alt="image" src="https://github.com/user-attachments/assets/cfe8bdf0-858b-497f-b40a-cd6006e2191a" />
+
+
+
+
 
 
 
